@@ -1,8 +1,9 @@
 # Structure of this website: 
-# https://riesadohara.github.io/test-Rmarkdown3/index.html
-name: "DietR Tutorial name"
+# https://riesadohara.github.io/my_test_repo/index.html
+name: "DietR Package name"
 navbar:
-  title: "DietR Tutorial title"
+  title: "DietR Package"
+  href: index.html
   left:
   - text: Home
     href: index.html
