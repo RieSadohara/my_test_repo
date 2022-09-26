@@ -1,5 +1,5 @@
 ### Project website can be found here:
-https://riesadohara.github.io/test-Rmarkdown3/
+ https://riesadohara.github.io/my_test_repo/
 
 ## This test-Rmarkdown3 repo is one for practicing building GitHub pages with R markdown files as its pages.  
 This GitHub page template was copied from https://crumplab.github.io/LabJournalWebsite/index.html.
