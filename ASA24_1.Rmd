@@ -14,7 +14,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 ## How to specify path to data.
 ```{r}
-shape_path <- "~/GitHub/dietary_patterns"
+shape_path <- "~/GitHub/DietR"
 myfilepath <- paste(shape_path, "/eg_data/VVKAJ/VVKAJ_Items.txt", sep="")
 print(myfilepath)
 ```
